@@ -8,5 +8,4 @@ if num_1 > num_2:
 elif num_1 == num_2:
     print("são iguias.")
 else:
-    print(f"Numero {num_2} e maior ", end="\n"
-          f"{num_1}")
+    print(f"Numero {num_2} e maior que {num_1}")
